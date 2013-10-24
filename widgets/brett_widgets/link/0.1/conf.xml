@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.brett.widgets.LinkWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Link Widget</label>
+  <description>link widget</description>
+</widget>
