@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.queno.widgets.EmployeeMaintenanceWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Employee Maintenance</label>
+  <description>Employee Maintenance Widget</description>
+</widget>
